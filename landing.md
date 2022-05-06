@@ -23,7 +23,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/butterfly.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -40,7 +40,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
+			<img src="{% link assets/images/bbangdduck.jpg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -66,4 +66,13 @@ nav-menu: true
 	</section>
 </section>
 
+<!-- Three -->
+<section id="three">
+	<div class="inner">
+		<header class="major">
+			<h2>And more....</h2>
+		</header>
+		<p>I am interested in a lot of things other than these three things like sleeping, watching anime, and listening to music. And I think I will have more hobbies as time goes on. </p>
+	</div>
+</section>
 </div>
