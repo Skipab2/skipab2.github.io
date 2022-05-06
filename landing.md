@@ -1,7 +1,7 @@
 ---
 title: Hobbies & Interests
 layout: landing
-description: Life is not the amount of breaths you take it's the moments that take your breath away
+description: Life is not the amount of breaths you take. It's the moments that take your breath away
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
@@ -15,7 +15,7 @@ nav-menu: true
 		<header class="major">
 			<h2>What takes your breath away?</h2>
 		</header>
-		<p>Truth be told, I`m not very talented at things other than using my brain. I have a terrible sense of colors, don`t like going out of the house, and have emotions dry as a desert in Africa. But these things really freshen me up and sometimes comfort my soul.</p>
+		<p>Truth be told, I`m not very talented at things other than using my brain. I have a terrible sense of colors, don`t like going out of the house, and have emotions dry as a desert in Africa. But these things really freshen me up and sometimes comfort my soul. Let me introduce my hobbies and interests.</p>
 	</div>
 </section>
 
