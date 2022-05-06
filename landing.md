@@ -1,7 +1,7 @@
 ---
 title: Hobbies & Interests
 layout: landing
-description: 'Life is not the amount of breaths you take it's the moments that take your breath away'
+description: Life is not the amount of breaths you take it's the moments that take your breath away
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
