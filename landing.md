@@ -1,7 +1,7 @@
 ---
 title: Hobbies & Interests
 layout: landing
-description: 'When you '
+description: 'Life is not the amount of breaths you take it's the moments that take your breath away  '
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
@@ -58,25 +58,12 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Sed nunc ligula</h3>
+					<h3>Reading</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
+				<p>Some may find reading a boring hobby. I mostly read Korean pure literature. We all know from when we are elementary students that Korean is a beautiful language, but it`s hard to feel it in our daily lives. If you read pure literature, you may feel the beauty of it thanks to the authors who could play with the words too well. My recomendation is 'Human Acts: A Novel' by Hangang.</p>
 			</div>
 		</div>
 	</section>
-</section>
-
-<!-- Three -->
-<section id="three">
-	<div class="inner">
-		<header class="major">
-			<h2>Massa libero</h2>
-		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
-	</div>
 </section>
 
 </div>

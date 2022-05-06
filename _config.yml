@@ -24,11 +24,11 @@ tiles-count: 6
 socials:
   GitHub: https://github.com/SKIPAB2
   GitLab:
-  Google-Plus: https://plus.google.com/u/0/+AndrewBanchich
+  Google-Plus:
   Instagram: https://www.instagram.com/hyeonjo_o_o/?hl=en
   LinkedIn: 
   Twitter: 
-  Facebook: 
+  Facebook: https://www.facebook.com/profile.php?id=100006925809718
   Slack:
 
 # build settings
