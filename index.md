@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'About Hwang Hyeon Jo'
+landing-title: 'About   Hwang Hyeon Jo'
 description: null
 image: null
 author: null
