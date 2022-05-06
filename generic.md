@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Projects
-description: Be something great
+description: To be something great
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
