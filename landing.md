@@ -1,5 +1,5 @@
 ---
-title: Landing
+title: Hobbies & Interests
 layout: landing
 description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
 image: assets/images/pic07.jpg
@@ -28,11 +28,12 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Orci maecenas</h3>
+					<h3>Drawings</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>From digital paintings to watercolors, anything that could be used to represent my inner space is welcomed when I`m drawing. Though I`m not very good at it, I just like the feeling of creating. I usually draw cute and simple characters because of my lack of drawing skills. You can find more of my drawings in my instagram. </p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="https://www.instagram.com/hyeonjo_o_o_o/?hl=en" 
+					class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
@@ -44,12 +45,9 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Rhoncus magna</h3>
+					<h3>Bbang dduck</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
+				<p>This cute doll is not exactly a hobby but is the most important thing in the world to me. And this deserves a place in this website. Bbang dduck is a goroneko doll, and was named bbangdduck because of its soft touch. Anyone who has held bbang dduck falls in love with it because of course it is the cutest doll in the world. I`m really proud of being the owner of this adorable doll. </p>
 			</div>
 		</div>
 	</section>
