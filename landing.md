@@ -1,7 +1,7 @@
 ---
 title: Hobbies & Interests
 layout: landing
-description: 'Life is not the amount of breaths you take it's the moments that take your breath away  '
+description: 'Life is not the amount of breaths you take it's the moments that take your breath away'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
@@ -13,9 +13,9 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Sed amet aliquam</h2>
+			<h2>What takes your breath away?</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
+		<p>Truth be told, I`m not very talented at things other than using my brain. I have a terrible sense of colors, don`t like going out of the house, and have emotions dry as a desert in Africa. But these things really freshen me up and sometimes comfort my soul.</p>
 	</div>
 </section>
 
