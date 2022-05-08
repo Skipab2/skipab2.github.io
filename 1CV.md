@@ -18,12 +18,15 @@ nav-menu: true
 <!-- Content -->
 <h2 id="content">Education</h2>
 <p>
-<strong>KAIST - Electrical Engineering </strong>   <i> Mar. 2022 ~ </i>
+<strong>KAIST - Electrical Engineering </strong>   <div style="text-align=left;"> Mar. 2022 ~</div>
+</p>
 
-<strong>Hanyang University - Department of Electronic Engineering</strong>   <i> Mar. 2018 ~ Feb. 2022  </i>
+<p>
+<strong>Hanyang University - Department of Electronic Engineering</strong>   <div style="text-align=left;"> Mar. 2018 ~ Feb. 2022  </div>
+</p>
 
-<strong>Ansan Dongsan Highschool </strong>   <i> Mar. 2016 ~ Feb. 2018</i>
-
+<p>
+<strong>Ansan Dongsan Highschool </strong>  <div style="text-align=left;"> Mar. 2016 ~ Feb. 2018</div>
 </p>
 
 
