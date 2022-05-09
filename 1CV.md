@@ -14,9 +14,9 @@ nav-menu: true
 		<header class="major">
 			<h2>Education</h2>
 		</header>
-		<p> <b>KAIST - Electrical Engineering </b> <i>Mar. 2022 ~</i> </p>
-		<p> <b>Hanyang University - Department of Convergence Electronic Engineering</b> <i>Mar. 2018 ~ Feb. 2022</i> </p>
-		<p> <b>Ansan Dongsan Highschool</b> <i>Mar. 2016 ~ Feb. 2017</i> </p>
+		<p> <b>KAIST - Electrical Engineering <a href="http://weis.kaist.ac.kr/">@WEIS lab</a></b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Mar. 2022 ~</i> </p>
+		<p> <b>Hanyang University - Department of Convergence Electronic Engineering</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Mar. 2018 ~ Feb. 2022</i> </p>
+		<p> <b>Ansan Dongsan Highschool</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>Mar. 2016 ~ Feb. 2017</i> </p>
 	</div>
 </section>
 
@@ -27,17 +27,19 @@ nav-menu: true
 			<h2>Experiences</h2>
 		</header>
 <dl>
-	<dt><b>Display technology with 3D physics-based interface </b> </dt>
+	<dt><b>Display technology with 3D physics-based interface</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Mar. 2019~ Nov. 2019</i> </dt>
 	<dd>
-		<p>Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Lorem ipsum dolor.</p>
+		<p> Inspired from the MIT 3d interface inFORM. I decided to make a simple form of it using motors. I was in charge of circuit designing in the team. Through this project, I learned how to use PADS, pspice tool.
+</p>
 	</dd>
-	<dt><b>Project FDTD implementation</b></dt>
+	<dt><b>Project FDTD implementation</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Mar. 2020~ Jun. 2020</i></dt>
 	<dd>
-		<p>Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Lorem ipsum dolor.</p>
+		<p>I studied ‘Introduction to the Finite-Difference Time-Domain (FDTD) Method for Electromagnetics (Stephen Gedney)' for a semester and wrote a MATLAB code. You can find out the code <a href="https://github.com/Skipab2/FDTD">here</a></p>
 	</dd>
 	<dt><b>Intership </b></dt>
 	<dd>
-		<p>Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Lorem ipsum dolor.</p>
+		<p>I worked on 'GPS L1 Band Microstrip Patch Antenna Design with Improved Beamwidth'. Through this project, I learned how to use HFSS tool.
+</p>
 	</dd>
 </dl>
 	</div>
