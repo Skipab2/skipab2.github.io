@@ -9,21 +9,16 @@ nav-menu: true
 <div id="main">
 
 <!-- One -->
-<section id="one">
-	<div class="inner">
-		<header class="major">
+<header class="major">
 			<h2>Education</h2>
 		</header>
 		<p> <b>KAIST - Electrical Engineering <a href="http://weis.kaist.ac.kr/">@WEIS lab</a></b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Mar. 2022 ~</i> </p>
 		<p> <b>Hanyang University - Department of Convergence Electronic Engineering</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Mar. 2018 ~ Feb. 2022</i> </p>
 		<p> <b>Ansan Dongsan Highschool</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>Mar. 2016 ~ Feb. 2017</i> </p>
-	</div>
-</section>
 
 <!-- Two -->
-<section id="two">
-	<div class="inner">
-		<header class="major">
+
+<header class="major">
 			<h2>Experiences</h2>
 		</header>
 <dl>
@@ -42,8 +37,7 @@ nav-menu: true
 </p>
 	</dd>
 </dl>
-	</div>
-</section>
+
 
 <!-- Three -->
 <section id="three">
