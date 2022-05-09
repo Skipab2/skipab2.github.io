@@ -21,8 +21,7 @@ nav-menu: true
 
 <!-- Two -->
 <section id="two">
-	<section>
-		<div class="content">
+	<section>		
 			<div class="inner">
 				<header class="major">
 					<h3>Drawings</h3>
@@ -32,28 +31,23 @@ nav-menu: true
 					<li><a href="https://www.instagram.com/hyeonjo_o_o_o/?hl=en" 
 					class="button">Learn more</a></li>
 				</ul>
-			</div>
-		</div>
+			</div>		
 	</section>
 	<section>
-		<div class="content">
 			<div class="inner">
 				<header class="major">
 					<h3>Bbang dduck</h3>
 				</header>
 				<p>This cute doll is not exactly a hobby but is the most important thing in the world to me. And this deserves a place in this website. Bbang dduck is a goroneko doll, and was named bbangdduck because of its soft touch. Anyone who has held bbang dduck falls in love with it because of course it is the cutest doll in the world. I`m really proud of being the owner of this adorable doll. </p>
 			</div>
-		</div>
 	</section>
 	<section>
-		<div class="content">
 			<div class="inner">
 				<header class="major">
 					<h3>Reading</h3>
 				</header>
 				<p>Some may find reading a boring hobby. I mostly read Korean pure literature. We all know from when we are elementary students that Korean is a beautiful language, but it`s hard to feel it in our daily lives. If you read pure literature, you may feel the beauty of it thanks to the authors who could play with the words too well. My recomendation is 'Human Acts: A Novel' by Hangang.</p>
 			</div>
-		</div>
 	</section>
 </section>
 
