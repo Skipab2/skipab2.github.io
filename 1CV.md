@@ -21,6 +21,7 @@ nav-menu: true
 		<p> <b>Ansan Dongsan Highschool</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>Mar. 2016 ~ Feb. 2017</i> </p>
 <!-- Experiences -->
 	<h2 id="content">Experiences</h2>
+<dl>
 	<dt><b>Display technology with 3D physics-based interface</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Mar. 2019~ Nov. 2019</i> </dt>
 	<dd>
 		<p> Inspired from the MIT 3d interface inFORM. I decided to make a simple form of it using motors. I was in charge of circuit designing in the team. Through this project, I learned how to use PADS, pspice tool.</p>
@@ -33,6 +34,7 @@ nav-menu: true
 	<dd>
 		<p>I worked on 'GPS L1 Band Microstrip Patch Antenna Design with Improved Beamwidth'. Through this project, I learned how to use HFSS tool.</p>
 	</dd>
+</dl>
 	</div>
 </section>
 
