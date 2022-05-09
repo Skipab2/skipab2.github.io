@@ -32,11 +32,11 @@ nav-menu: true
 	</dd>
 	<dt><b>Project FDTD implementation</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Mar. 2020~ Jun. 2020</i></dt>
 	<dd>
-		<p>I studied ‘Introduction to the Finite-Difference Time-Domain (FDTD) Method for Electromagnetics (Stephen Gedney)' for a semester and wrote a MATLAB code. You can find out the code <a href="https://github.com/Skipab2/FDTD">here</a></p>
+		<p> I studied ‘Introduction to the Finite-Difference Time-Domain (FDTD) Method for Electromagnetics (Stephen Gedney)' for a semester and wrote a MATLAB code. You can find out the code <a href="https://github.com/Skipab2/FDTD">here</a></p>
 	</dd>
-	<dt><b>Intership </b></dt>
+	<dt><b>Intership </b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Feb. 2021~ Nov. 2021</i></dt>
 	<dd>
-		<p>I worked on 'GPS L1 Band Microstrip Patch Antenna Design with Improved Beamwidth'. Through this project, I learned how to use HFSS tool.</p>
+		<p> I worked on 'GPS L1 Band Microstrip Patch Antenna Design with Improved Beamwidth'. I tried to make the HPBW of the antenna larger by integrating two diffrent mode antennas while having a RHCP characteristic. Through this project, I learned how to use HFSS tool.</p>
 	</dd>
 </dl>
 <!-- Scholarships and Prizes -->
@@ -46,6 +46,7 @@ nav-menu: true
 	<ul>
 			<li>National Graduate Science & Technology Scholarship (full tuition), Hanyang University <i>2020~2021</i></li>
 			<li>Academic Excellence Scholarship, Hanyang University <i>2020</i></li>
+			<li>1st prize, Hanyang Academic Convergence Seminar  <i>2018</i></li>
 			<li>Electronic Engineering Freshman Scholarship (full tuition), Hanyang University   <i>2018~2019</i></li>
 		</ul>
 <!--Qualifications -->
