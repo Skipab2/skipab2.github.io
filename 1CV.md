@@ -16,7 +16,7 @@ nav-menu: true
 		</header>
 <!-- Education -->
 	<header class="major">
-		<h2 id='content'>Education</h3>
+		<h3 id='content'>Education</h3>
 	</header>
 		<p> <b>KAIST - Electrical Engineering <a href="http://weis.kaist.ac.kr/">@WEIS lab</a></b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Mar. 2022 ~</i> </p>
 		<p> <b>Hanyang University - Department of Convergence Electronic Engineering</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Mar. 2018 ~ Feb. 2022</i> </p>
