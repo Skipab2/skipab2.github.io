@@ -35,6 +35,20 @@ nav-menu: true
 		<p>I worked on 'GPS L1 Band Microstrip Patch Antenna Design with Improved Beamwidth'. Through this project, I learned how to use HFSS tool.</p>
 	</dd>
 </dl>
+<!-- Scholarships and Prizes -->
+	<h2 id="content">Scholarships and Prizes</h2>
+	<ul>
+			<li>National Graduate Science & Technology Scholarship (full tuition), Hanyang University <i>2020~2021</i></li>
+			<li>Academic Excellence Scholarship, Hanyang University <i>2020</i></li>
+			<li>Electronic Engineering Freshman Scholarship (full tuition), Hanyang University   <i>2018~2019</i></li>
+		</ul>
+<!--Qualifications -->
+	<h2 id="content">Qualifications</h2>
+	<ul>
+			<li>TOEIC 975</li>
+			<li>OPIC IH</li>
+			<li>한자능력검정시험 3급</li>
+		</ul>
 	</div>
 </section>
 
