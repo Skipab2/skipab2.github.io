@@ -16,13 +16,15 @@ nav-menu: true
 		</header>
 <!-- Education -->
 	<header class="major">
-		<h3 id='content'>Education</h3>
+		<h2 id='content'>Education</h2>
 	</header>
 		<p> <b>KAIST - Electrical Engineering @<a href="http://weis.kaist.ac.kr/">WEIS lab</a></b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Mar. 2022 ~</i> </p>
 		<p> <b>Hanyang University - Department of Convergence Electronic Engineering</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Mar. 2018 ~ Feb. 2022</i> </p>
 		<p> <b>Ansan Dongsan Highschool</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>Mar. 2016 ~ Feb. 2017</i> </p>
 <!-- Experiences -->
-	<h2 id="content">Experiences</h2>
+	<header class="major">
+		<h2 id="content">Experiences</h2>
+	</header>	
 <dl>
 	<dt><b>Display technology with 3D physics-based interface</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Mar. 2019~ Nov. 2019</i> </dt>
 	<dd>
@@ -38,14 +40,18 @@ nav-menu: true
 	</dd>
 </dl>
 <!-- Scholarships and Prizes -->
-	<h2 id="content">Scholarships and Prizes</h2>
+	<header class="major">
+		<h2 id="content">Scholarships and Prizes</h2>
+	</header>
 	<ul>
 			<li>National Graduate Science & Technology Scholarship (full tuition), Hanyang University <i>2020~2021</i></li>
 			<li>Academic Excellence Scholarship, Hanyang University <i>2020</i></li>
 			<li>Electronic Engineering Freshman Scholarship (full tuition), Hanyang University   <i>2018~2019</i></li>
 		</ul>
 <!--Qualifications -->
-	<h2 id="content">Qualifications</h2>
+	<header class="major">
+		<h2 id="content">Qualifications</h2>
+	</header>
 	<ul>
 			<li>TOEIC 975</li>
 			<li>OPIC IH</li>
