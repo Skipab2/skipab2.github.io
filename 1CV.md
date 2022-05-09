@@ -15,7 +15,9 @@ nav-menu: true
 			<h1>CV</h1>
 		</header>
 <!-- Education -->
-	<h2 id="content">Education</h2>
+	<header class="major">
+		<h2 id='content'>Education</h3>
+	</header>
 		<p> <b>KAIST - Electrical Engineering <a href="http://weis.kaist.ac.kr/">@WEIS lab</a></b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Mar. 2022 ~</i> </p>
 		<p> <b>Hanyang University - Department of Convergence Electronic Engineering</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Mar. 2018 ~ Feb. 2022</i> </p>
 		<p> <b>Ansan Dongsan Highschool</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>Mar. 2016 ~ Feb. 2017</i> </p>
